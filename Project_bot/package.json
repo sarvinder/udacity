@@ -1,0 +1,15 @@
+{
+  "name": "project_bot",
+  "version": "1.0.0",
+  "description": "bot testing based on cognitive srevices or any other help",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bowring show",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
